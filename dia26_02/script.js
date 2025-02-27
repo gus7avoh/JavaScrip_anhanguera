@@ -31,8 +31,8 @@ function send() {
 }
 
 function aleatorio() {
-   // return Math.floor(Math.random() * 100) + 1;
-   return 50;
+   return Math.floor(Math.random() * 100) + 1;
+
 }
 
 function reiniciar() {
